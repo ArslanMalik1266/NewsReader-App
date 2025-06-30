@@ -1,4 +1,4 @@
-# News Reader App (Demo)
+# News Reader App
 
 The **News Reader App** is a demonstration Android application that displays a curated list of dummy news articles. It showcases features like dynamic news lists, bookmarking, and detailed views, all implemented using modern Android development practices.
 
