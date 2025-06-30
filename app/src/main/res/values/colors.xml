@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#2B3A55</color>       <!-- Deep Navy -->
+    <color name="secondary">#CE7777</color>     <!-- Terracotta -->
+    <color name="surface">#F9F9F9</color>       <!-- Light background -->
+    <color name="background">#E8E8E8</color>    <!-- Page background -->
+    <color name="text_primary">#2B3A55</color>
+    <color name="text_secondary">#6D7B8C</color>
+    <color name="icon_active">#CE7777</color>
+    <color name="icon_inactive">#A6A6A6</color>
+    <color name="overlay_dark">#80000000</color>
+    <color name="light_grey">#CCCCCC</color>
+</resources>
